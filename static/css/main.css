@@ -1,0 +1,29 @@
+/* Header and Paragraph Styling*/
+h1{
+  color: blue;
+  font-family: Lobster, Monospace
+}
+
+h2{
+	color:blue;
+}
+
+p{
+  color: purple;
+  font-size:18px;
+}
+
+ul{
+	color:red;
+}
+
+*{
+  font-family:Georgia;
+}
+
+img{
+	border-radius: 100%;
+}
+ body {
+        background: url("blueit.jpg");
+    }
